@@ -1,0 +1,36 @@
+# Node.js
+node_modules/
+backend/.env
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs
+*.log
+*.log.*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# React (frontend)
+frontend/node_modules/
+frontend/build/
+frontend/.env
+frontend/.DS_Store
+frontend/.next/
+frontend/.cache/
+
+# PostgreSQL local dump or backup files
+*.sql
+*.dump
+*.backup
+
+# Git
+.git/

@@ -1,0 +1,1 @@
+Aplicación web full-stack que permite gestionar usuarios con funciones CRUD completas. Implementa un formulario con validación, almacenamiento en base de datos relacional y lógica de edición y eliminación en tiempo real.
